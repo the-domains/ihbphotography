@@ -1,4 +1,3 @@
-layout_spectrum: 0.5117335771210492
 typography_spectrum: 0.32706711743958294
 color:
   brandStrength: 0.9764141011983156
@@ -6,9 +5,11 @@ color:
   saturation: 0.34979456779547036
   rhythmicContrast: 0.9677058935631067
   brandColors:
-    - '#000000'
-    - '#111E20'
-    - '#314000'
-    - '#435300'
-    - '#1C2E0F'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.5117335771210492
 name: IHBphotography
+title: Photography made Fun
