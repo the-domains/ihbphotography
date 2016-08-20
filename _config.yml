@@ -1,3 +1,4 @@
+layout_spectrum: 0.5117335771210492
 typography_spectrum: 0.32706711743958294
 color:
   brandStrength: 0.9764141011983156
@@ -10,7 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.5117335771210492
 name: IHBphotography
-title: Photography made Fun
-description: Happy Shooting
